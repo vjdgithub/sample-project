@@ -1,5 +1,8 @@
-<!Doctype html> updated changes by both developer 1 and 2
-r
+<<<<<<< HEAD
+<!Doctype html>
+=======
+this is developer 1 changes <!Doctype html>
+>>>>>>> 3634e9e083710696760324c4be96b03e5f4afa53
 <html>
 
 <head>
@@ -56,4 +59,4 @@ r
     </div>
 </body>
 
-<rhtml>
+</html>
